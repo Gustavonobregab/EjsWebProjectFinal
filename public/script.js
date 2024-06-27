@@ -11,4 +11,4 @@ function createItems() {
   }
 }
 
-document.getElementById('submitBtn').addEventListener('click', createItems)
+document.getElementById('quantity').addEventListener('input', createItems)
