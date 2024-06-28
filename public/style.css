@@ -39,7 +39,8 @@ input {
   max-width: none;
   margin: 0 auto;
   padding: 20px;
-  max-height: calc(100vh - 60px);
+  max-height: calc(100vh - 80px);
+  margin-bottom: 50px;
 }
 
 .item {
